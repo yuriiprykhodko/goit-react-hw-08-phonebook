@@ -1,0 +1,11 @@
+.container {
+  display: flex;
+  padding-top: 15px;
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-bottom: 10px;
+  border-bottom: 2px solid black;
+}
+.rightPart {
+  margin-left: auto;
+}

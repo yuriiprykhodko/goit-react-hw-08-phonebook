@@ -1,0 +1,18 @@
+.HomePageContainer {
+  padding-top: 20px;
+  padding-left: 40px;
+  text-align: left;
+}
+.header {
+  display: inline-block;
+  margin-right: 10px;
+  font-size: 35px;
+  font-weight: 500;
+  color: blueviolet;
+}
+
+.text {
+  font-weight: 400;
+  font-size: 20px;
+  color: blueviolet;
+}
